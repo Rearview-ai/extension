@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/assets/icon.webp" alt="Rearview Logo" width="128" height="128" style="border-radius: 20px"/>
+  <img src="assets/icon.webp" alt="Rearview Logo" width="128" height="128" style="border-radius: 20px"/>
   <h1>Rearview</h1>
   <p>Enhance Your Browsing History Experience</p>
 </div>
@@ -27,7 +27,7 @@
 6. Enjoy enhanced history management features
 ## 📸 Screenshot
 <div align="center">
-  <img src="src/assets/bg.webp" alt="Rearview Screenshot" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
+  <img src="assets/bg.webp" alt="Rearview Screenshot" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
 </div>
 
 ## 🛡️ Privacy & Security
