@@ -19,7 +19,7 @@
 
 ## 🚀 开始使用
 > ***Chrome 网上应用店和 Microsoft Edge 插件商店即将上线***
-1. 从 [GitHub Releases](https://github.com/your-username/rearview-extension/releases) 下载最新版本
+1. 从 [GitHub Releases](https://github.com/livin2/rearview-extension/releases) 下载最新版本
 2. 打开 Chrome/Edge 并访问 `chrome://extensions` 或 `edge://extensions`
 3. 在右上角启用"开发者模式"
 4. 将下载的 `.zip` 文件拖放到扩展页面
