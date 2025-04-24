@@ -18,7 +18,14 @@
 - **AI Assistant**: Intelligent conversation services based on your browsing history.
 
 ## 🚀 Getting Started
-> ***Chrome Web Store & Microsoft Edge Add-ons is coming soon.***
+> ***Chrome Web Store & Microsoft Edge Add-ons:***
+
+<p align="left">
+<a href="https://chromewebstore.google.com/detail/rearview-history-knowledg/ffninppfldciggckgjlhocbpchfbfiee"><img style="height:5rem;" src="https://i.imgur.com/35jWrDK.png" alt="Get Rearview for Chrome"></a>&nbsp&nbsp&nbsp    
+<a href="https://microsoftedge.microsoft.com/addons/detail/rearview-history-knowle/pccjgeaeghopbljaffoplfihkkmjeehk"><img style="height:5rem;" src="https://i.imgur.com/Gw06ovP.png" alt="Get Rearview for Microsoft Edge"></a>
+</p>
+
+> ***Or you can install beta version via:***
 1. Download the latest release from [GitHub Releases](https://github.com/livin2/rearview-extension/releases)
 2. Open Chrome/Edge and navigate to `chrome://extensions` or `edge://extensions`
 3. Enable "Developer mode" in the top right corner
