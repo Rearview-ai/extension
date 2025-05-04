@@ -18,15 +18,17 @@
 - **AI Assistant**: Intelligent conversation services based on your browsing history.
 
 ## 🚀 Getting Started
-> ***Chrome Web Store & Microsoft Edge Add-ons:***
+> ***Chrome Web Store & Microsoft Edge Add-ons & Firefox Add-ons:***
 
 <p align="left">
 <a href="https://chromewebstore.google.com/detail/rearview-history-knowledg/ffninppfldciggckgjlhocbpchfbfiee"><img style="height:5rem;" src="https://i.imgur.com/35jWrDK.png" alt="Get Rearview for Chrome"></a>&nbsp&nbsp&nbsp    
 <a href="https://microsoftedge.microsoft.com/addons/detail/rearview-history-knowle/pccjgeaeghopbljaffoplfihkkmjeehk"><img style="height:5rem;" src="https://i.imgur.com/Gw06ovP.png" alt="Get Rearview for Microsoft Edge"></a>
+&nbsp&nbsp&nbsp    
+<a href="https://addons.mozilla.org/zh-CN/firefox/addon/rearview-history-knowledgebase/"><img style="height:5rem;" src="https://i.imgur.com/CwnaUeH.png" alt="Get Rearview for Firefox Addons"></a>
 </p>
 
 > ***Or you can install beta version via:***
-1. Download the latest release from [GitHub Releases](https://github.com/livin2/rearview-extension/releases)
+1. Download the latest release from [GitHub Releases](https://github.com/Rearview-ai/extension/releases)
 2. Open Chrome/Edge and navigate to `chrome://extensions` or `edge://extensions`
 3. Enable "Developer mode" in the top right corner
 4. Drag and drop the downloaded `.zip` file into the extensions page
@@ -39,6 +41,12 @@
 
 ## 🛡️ Privacy & Security
 
-- All history index data is stored locally on your device
+We take your privacy and data security seriously :
+
+- **Local Storage**: All your browsing history is stored locally on your device
+- **No Data Collection**: We don't collect or transmit your browsing data
+- **Transparent Policy**: Our privacy policy is clear and user-focused
+
+For detailed information about our privacy practices, please visit our [Privacy Policy](https://rearview-ai.vercel.app/privacy).
 
 
