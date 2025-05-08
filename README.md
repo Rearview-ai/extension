@@ -28,12 +28,16 @@
 </p>
 
 > ***Or you can install beta version(will be another extension instance) via:***
-1. Download the latest Beta release from [GitHub Releases](https://github.com/Rearview-ai/extension/releases)
-2. Open Chrome/Edge and navigate to `chrome://extensions` or `edge://extensions`
-3. Enable "Developer mode" in the top right corner
-4. Drag and drop the downloaded `.zip` file into the extensions page
-5. Click the extension icon in your browser toolbar to start exploring your browsing history
-6. Enjoy enhanced history management features
+1. Download the latest Beta release zip from [GitHub Releases](https://github.com/Rearview-ai/extension/releases).
+#### 🌐 Chrome / Edge
+2. Visit `chrome://extensions` or `edge://extensions` 
+3. Enable `Developer Mode`
+4. Drag and drop the downloaded zip file onto the extensions page
+#### 🦊 Firefox
+2. Visit `about:debugging#/runtime/this-firefox`
+3. Click `Load Temporary Add-on...`
+4. Select `manifest.json` from zip extracted folder.
+   
 ## 📸 Screenshot
 <div align="center">
   <img src="assets/bg.webp" alt="Rearview Screenshot" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
