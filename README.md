@@ -28,7 +28,7 @@
 </p>
 
 > ***Or you can install beta version(will be another extension instance) via:***
-1. Download the latest release from [GitHub Releases](https://github.com/Rearview-ai/extension/releases)
+1. Download the latest Beta release from [GitHub Releases](https://github.com/Rearview-ai/extension/releases)
 2. Open Chrome/Edge and navigate to `chrome://extensions` or `edge://extensions`
 3. Enable "Developer mode" in the top right corner
 4. Drag and drop the downloaded `.zip` file into the extensions page
