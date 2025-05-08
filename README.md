@@ -12,7 +12,7 @@
 
 ## ✨ Features
 
-- **Long-term Storage**: Break through browser default limitations, save months or even years of history records locally.
+<!-- - **Long-term Storage**: Break through browser default limitations, save months or even years of history records locally. -->
 - **Full-text Search**: Search not just URLs and titles, but also the content of web pages you've visited.
 - **Timeline View**: Display your browsing history along a timeline, organize and filter by date, domain, or visit frequency.
 - **AI Assistant**: Intelligent conversation services based on your browsing history.
