@@ -27,7 +27,7 @@
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/rearview-history-knowledgebase/"><img style="height:5rem;" src="https://i.imgur.com/CwnaUeH.png" alt="Get Rearview for Firefox Addons"></a>
 </p>
 
-> ***Or you can install beta version via:***
+> ***Or you can install beta version(will be another extension instance) via:***
 1. Download the latest release from [GitHub Releases](https://github.com/Rearview-ai/extension/releases)
 2. Open Chrome/Edge and navigate to `chrome://extensions` or `edge://extensions`
 3. Enable "Developer mode" in the top right corner
